@@ -1,2 +1,2 @@
 # Curso_Data_Sciece_Degree
-Curso Data Science Degree - Lets Code
+Neste repositório estão armazenados os exercícios e projetos dos módulos do curso Data Science Degree - Lets Code. 
